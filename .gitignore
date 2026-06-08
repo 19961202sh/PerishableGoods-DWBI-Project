@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+
+*.bak
+*.mdf
+*.ldf
+
+*.suo
+*.user
+*.cache
+
+*.database
+
+DataBackup/
