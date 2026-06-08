@@ -37,6 +37,10 @@ This project develops a Data Warehouse and Business Intelligence solution to cen
 
 ![Star Schema](Screenshots/Star_Schema.png)
 
+## SSAS Cube Design
+
+![SSAS Cube](Screenshots/SSAS_Cube.png)
+
 ## Power BI Reports
 
 ### Report 1
